@@ -1,0 +1,48 @@
+
+
+		Results
+Start Node: 1 (20,30) Destination Node: 59 (60,90) Cost: 3392
+Path Taken
+1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 59
+
+
+		Results
+Start Node: 45 (92,100) Destination Node: 66 (20,145) Cost: 304
+Path Taken
+45 46 47 64 66
+
+
+		Results
+Start Node: 60 (182,95) Destination Node: 9 (180,15) Cost: 330
+Path Taken
+60 35 36 10 8 9
+
+
+		Results
+Start Node: 1 (20,30) Destination Node: 23 (45,40) Cost: 5701
+Path Taken
+1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 25 20 24 21 22 23
+
+
+		Results
+Start Node: 22 (30,50) Destination Node: 42 (175,160) Cost: 3703
+Path Taken
+22 23 3 4 5 6 7 8 10 11 35 60 37 39 38 40 41 42
+
+
+		Results
+Start Node: 9 (180,15) Destination Node: 66 (20,145) Cost: 1806
+Path Taken
+9 8 10 11 12 13 14 15 16 17 18 46 47 64 66
+
+
+		Results
+Start Node: 33 (146,77) Destination Node: 27 (70,60) Cost: 514
+Path Taken
+33 13 14 15 16 17 18 26 27
+
+
+		Results
+Start Node: 43 (75,190) Destination Node: 3 (50,10) Cost: 3257
+Path Taken
+43 40 38 16 17 18 26 27 19 25 20 24 21 22 23 3
